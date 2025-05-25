@@ -1,3 +1,4 @@
+https://t.me/proxy?server=128.140.70.51&port=32392
 https://t.me/proxy?server=128.140.70.51&port=38245
 https://t.me/proxy?server=128.140.70.51&port=32392
 https://t.me/proxy?server=178.32.202.54&port=49864
@@ -37,14 +38,13 @@ https://t.me/proxy?server=168.119.118.142&port=18497
 https://t.me/proxy?server=168.119.118.142&port=61965
 https://t.me/proxy?server=168.119.118.142&port=53423
 https://t.me/proxy?server=168.119.118.142&port=49208
-https://t.me/proxy?server=168.119.118.142&port=47828
 https://t.me/proxy?server=168.119.118.142&port=61965
-https://t.me/proxy?server=168.119.118.142&port=18497
+https://t.me/proxy?server=168.119.118.142&port=47828
+https://t.me/proxy?server=168.119.118.142&port=32291
 https://t.me/proxy?server=168.119.118.142&port=23363
+https://t.me/proxy?server=168.119.118.142&port=18497
 https://t.me/proxy?server=168.119.118.142&port=60726
 https://t.me/proxy?server=168.119.118.142&port=53423
 https://t.me/proxy?server=168.119.118.142&port=62187
 https://t.me/proxy?server=168.119.118.142&port=49208
-https://t.me/proxy?server=168.119.118.142&port=32291
 https://t.me/proxy?server=168.119.118.142&port=64563
-https://t.me/proxy?server=128.140.70.51&port=32500
