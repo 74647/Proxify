@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.19.24.111:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.24.111:443
 vless://d79676d2-fa67-4a47-9105-150ec8c42517@129.154.228.4:4434?security=tls&sni=bazar.ir&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇮🇳 IN-129.154.228.4:4434
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.113:80?type=ws&host=gozargah.validbv7996.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.113:80
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.24:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&allowInsecure=1#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.24:80
@@ -502,4 +503,3 @@ vless://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@172.67.220.32:443?security=tls&sni=
 vless://9a9a8e07-2735-46cb-9a94-686d030ca654@172.67.194.163:443?security=tls&sni=hormozgan.losehismind.ir&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.163:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.14:80?type=ws&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.14:80
 vless://acc8587d-18a6-413e-ba3a-2b13e594d378@49.12.225.140:443?security=tls&flow=xtls-rprx-vision-udp443&sni=tgju.org&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-49.12.225.140:443
-vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.114.221:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.114.221:443

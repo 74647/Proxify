@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+vless://10b59513-ef76-4494-a925-305ec45dd3a4@45.12.139.44:2040?security=tls&sni=github.com&fp=chrome#🔒 VL-TCP-TLS 🇨🇾 CY-45.12.139.44:2040
 vless://f450ccd0-6053-4232-a16e-a6ecea7e3054@178.239.146.76:2010?type=tcp&host=api4.callback.cdn.nim.file.plsvi.online&headerType=http&fp=chrome#🔒 VL-TCP-NA 🇮🇷 IR-178.239.146.76:2010
 vless://401374e6-df77-41fb-f638-dad8184f175b@184.174.80.250:443?security=tls&sni=pqh23v4.hiddendom.shop&type=grpc&host=pqh23v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-184.174.80.250:443
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:8443?security=tls&sni=vkvd127.mycdn.me&type=tcp&fp=chrome&alpn=h2#🔒 VL-TCP-TLS 🇩🇪 DE-89.187.169.71:8443
@@ -502,4 +503,3 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.85.119.197:8880?security=none&ty
 vless://37923a01-14f0-40c2-a5dd-d0349ca27210@172.67.209.117:2052?security=none&type=httpupgrade&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.209.117:2052
 vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@172.67.187.219:8880?security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.187.219:8880
 vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.0.137:80?security=none&type=ws&host=game.baziha0098.ir&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.137:80
-vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.208.111:80?sni=yuming.kkllllkkkk95.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.208.111:80

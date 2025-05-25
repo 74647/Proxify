@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.48:2095?type=ws&host=redw.pooriam.ir&path=%2F#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.48:2095
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.pronetwork.com&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@221.144.200.91:30025?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-221.144.200.91:30025
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.133:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.133:443
@@ -502,4 +503,3 @@ vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@188.114.96.92:443?security=tls&sni=
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@147.185.161.45:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.45:2096
 vless://c91ca460-51e6-470f-99ab-2b1d3439f194@104.25.105.1:443?security=tls&sni=byvless.xiaoqi666.xyz&type=ws&host=byvless.xiaoqi666.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.105.1:443
 vless://052e510d-d892-4dc4-a686-8986a01535cd@172.66.44.100:443?security=tls&sni=SprING-HaLl-14EF.WOOzY-cHAmOis2822.WorkERs.DEv&type=ws&host=spring-hall-14ef.woozy-chamois2822.workers.dev&path=%2FTelegram%40MTMVPN---MTMVPN%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.100:443
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@45.12.139.44:2040?security=tls&sni=github.com&fp=chrome#🔒 VL-TCP-TLS 🇨🇾 CY-45.12.139.44:2040

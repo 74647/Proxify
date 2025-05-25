@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+vless://7ca28380-8f51-4eaa-89c9-6243bdf7f500@162.159.152.234:2083?sni=www.pjw5.top&type=ws&host=www.pjw5.top#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.234:2083
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@193.227.99.0:2087?security=tls&sni=a2.flcode.ir&type=grpc#🔒 VL-GRPC-TLS 🇲🇹 MT-193.227.99.0:2087
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.71:2096?security=tls&sni=CLOuDFlAreiraN1.PAgES.DEv&type=ws&host=cloudflareiran1.pages.dev&path=%2FZLarvpjHKWtuPUy4&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.71:2096
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@46.254.92.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-46.254.92.29:8880
@@ -502,4 +503,3 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.64.1:8880?security=none&type
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.137.37:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.37:443
 vless://21d889b6-78c3-4ad0-be32-145bc41f68d6@104.18.26.50:2095?type=ws&host=%76%50n%63%75%73%74om%69z%65.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=/Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.26.50:2095
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.131.208.67:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-45.131.208.67:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.48:2095?type=ws&host=redw.pooriam.ir&path=%2F#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.48:2095

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@5.104.75.130:8443?security=tls&sni=CiR346yL3b.DeRaKhT.iNfO&type=ws&host=CiR346yL3b.DeRaKhT.iNfO#🔒 VL-WS-TLS 🇩🇪 DE-5.104.75.130:8443
 vless://07eaf930-14df-4508-9ad3-d3aae5e10ab1@91.134.88.205:443?security=tls&sni=france.linceed.se&type=tcp#🔒 VL-TCP-TLS 🇫🇷 FR-91.134.88.205:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@46.254.92.163:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-46.254.92.163:8880
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.45:443?sni=cl.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.105.45:443
@@ -502,4 +503,3 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.142.196:443?sni=edccd.amber
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.116.7.68:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-103.116.7.68:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.23:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.23:80
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.183:8443?security=tls&sni=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&type=ws&host=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&path=/#🔒 VL-WS-TLS 🇺🇸 US-160.153.0.183:8443
-vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.163:443?sni=vx.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-63.141.128.163:443
