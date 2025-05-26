@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+trojan://gIRrGnuuNm@45.85.119.0:2096?security=tls&sni=aa.v2jey.fun&type=ws&host=aa.v2jey.fun&path=/#🔒 TR-WS-TLS 🇷🇴 RO-45.85.119.0:2096
+trojan://Aimer@104.26.3.198:443?sni=epccv.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.3.198:443
 trojan://juzi@18.135.188.86:443?sni=juzi8186-sr1.pages.dev#🔒 TR-TCP-NA 🇬🇧 GB-18.135.188.86:443
 trojan://1549e70f-dc57-45e3-ac7c-515f0161db72@104.21.7.147:443?security=tls&sni=6667.HUAnGSHanG.dpdNs.orG&type=ws&host=6667.HUAnGSHanG.dpdNs.orG&path=/TomYJoQX0RSt1mktNrT#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.7.147:443
 trojan://Aimer@104.16.159.246:443?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.159.246:443
@@ -501,5 +503,3 @@ trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=g
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@31.223.184.248:17721?sni=data.52daishu.life#🔒 TR-TCP-NA 🇯🇵 JP-31.223.184.248:17721
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&sni=series-v1.samanehha.co&type=ws&host=series-v1.samanehha.co&path=/43xf5zgeApzDAfhOHq#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.131.245:443
 trojan://Aimer@52.32.90.142:80?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-52.32.90.142:80
-trojan://84831b86-5c76-4173-bdf1-02fa3ed78a32@104.21.96.1:443?security=tls&sni=eeERrrR.999815.xYZ&type=ws&host=eeerrrr.999815.xyz&path=%2FeS3prPmcpzbScA5VUAi1psm38Tz&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.96.1:443
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip#🔒 TR-WS-TLS 🇬🇧 GB-217.163.76.254:443

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+trojan://Aimer@104.16.43.45:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.43.45:443
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.5:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-NA 🇷🇺 RU-45.67.215.5:443
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.25:443?security=tls&sni=trus.moonfree.top&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-74.63.241.25:443
 trojan://Aimer@108.165.152.169:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.169:2087
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.2:443?security=tls&sni=trus.moonfree.top#🔒 TR-TCP-TLS 🇺🇸 US-69.162.95.2:443
@@ -498,8 +500,6 @@ trojan://Aimer@162.159.138.204:443?security=tls&sni=epcca.ambercc.filegear-sg.me
 trojan://0000000@18.238.109.41:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-18.238.109.41:443
 trojan://Aimer@162.159.43.218:443?sni=epccx.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.43.218:443
 trojan://baaabcc-acab-abca-dcab-aabbcccabbac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-ss://bm9uZTpjYWJhYmFjLWFiY2EtYWFiYy1iYWNkLWFhY2JiYWFjYmJjYw==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 TUE-06-KHORDAD-1404 🕑 00:23
-ss://bm9uZTphYmFjY2FiLWFhYmMtYmNhYS1kYWNiLWJjYmFiYWFjYWJjYw==@127.0.0.1:2080#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
-ss://bm9uZTpiYmNjYWFhLWNiYWEtYmFjYS1hZGNiLWNjYWFhYmJiY2NiYQ==@127.0.0.1:3080#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0VG9sNmpIUjZWekV6WXBuU2J2MHNR@109.248.162.86:1080#🔒 SS-TCP-NA 🇳🇱 NL-109.248.162.86:1080
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.93.47:8119#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.47:8119
+ss://bm9uZTpiY2FhYmNhLWJhYWMtYWNiYS1iY2FkLWJjY2JiYWNhY2FiYQ==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 TUE-06-KHORDAD-1404 🕑 01:19
+ss://bm9uZTphYmNjYmFhLWFhY2ItYWFjYi1iY2RhLWJjYWNjYWFiYWJjYg==@127.0.0.1:2080#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
+ss://bm9uZTpjYmJjYWFhLWFhYmMtYWJhYy1iY2RhLWJiYWNjYmJhY2FjYQ==@127.0.0.1:3080#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
