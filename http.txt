@@ -19881,6 +19881,7 @@
 102.0.18.120:8080
 102.0.18.198:8080
 102.0.18.2:8080
+102.0.22.64:8080
 102.0.3.10:8080
 102.0.3.222:8080
 102.0.5.152:8080
@@ -20994,6 +20995,7 @@
 103.15.223.251:3129
 103.15.223.251:3131
 103.15.60.21:8080
+103.150.101.96:3128
 103.150.112.226:3125
 103.150.115.189:9933
 103.150.117.48:3128
@@ -21401,7 +21403,6 @@
 103.159.220.215:8080
 103.159.225.30:1080
 103.159.225.34:80
-103.159.46.10:82
 103.159.46.10:83
 103.159.46.125:83
 103.159.46.14:83
@@ -25423,6 +25424,7 @@
 111.72.199.70:2324
 111.72.200.184:2324
 111.72.200.212:2324
+111.72.200.242:2324
 111.72.200.58:2324
 111.72.200.68:2324
 111.72.200.6:2324
@@ -25644,6 +25646,7 @@
 113.229.3.23:1080
 113.229.4.95:1080
 113.23.155.110:1231
+113.23.157.34:1231
 113.23.157.35:1231
 113.23.157.39:1231
 113.23.157.45:1231
@@ -28580,7 +28583,6 @@
 14.168.94.87:4003
 14.168.94.87:4006
 14.168.94.87:4009
-14.168.95.126:4007
 14.168.95.22:4004
 14.168.95.38:4002
 14.168.95.66:4009
@@ -28657,6 +28659,7 @@
 14.243.149.40:8080
 14.243.171.127:10001
 14.243.211.157:20147
+14.245.14.51:20119
 14.245.81.11:8080
 14.248.84.131:8080
 14.250.20.146:8080
@@ -33083,6 +33086,7 @@
 164.163.178.61:8080
 164.163.185.204:80
 164.163.187.243:999
+164.163.222.236:9292
 164.163.40.16:10000
 164.163.40.90:10000
 164.163.42.19:10000
@@ -34048,7 +34052,6 @@
 171.224.0.192:4008
 171.224.0.93:4002
 171.224.0.93:4005
-171.224.0.93:4007
 171.224.16.7:8080
 171.224.168.251:5103
 171.224.79.180:20029
@@ -41461,7 +41464,6 @@
 185.134.233.111:3111
 185.134.99.61:4153
 185.135.216.85:3128
-185.136.185.120:8080
 185.138.114.113:8080
 185.138.120.109:8080
 185.139.228.188:80
@@ -47578,7 +47580,6 @@
 197.248.231.91:8080
 197.248.26.71:8080
 197.248.57.193:8080
-197.248.75.221:8103
 197.248.75.221:8105
 197.248.86.237:32650
 197.248.98.55:8080
@@ -49062,6 +49063,7 @@
 202.58.73.246:1111
 202.58.77.131:8081
 202.58.77.170:8081
+202.58.77.194:8031
 202.58.77.209:7777
 202.58.77.228:8080
 202.58.77.230:8083
@@ -52027,7 +52029,6 @@
 27.76.18.165:4004
 27.76.18.165:4009
 27.76.18.208:4002
-27.76.18.208:4005
 27.76.18.208:4008
 27.76.215.163:8004
 27.77.227.68:1080
@@ -53451,6 +53452,7 @@
 36.93.32.137:8080
 36.93.4.58:8080
 36.93.4.59:8080
+36.93.4.60:8080
 36.93.4.61:8080
 36.93.56.58:8080
 36.93.61.193:65432
@@ -60093,7 +60095,6 @@
 47.250.51.110:100
 47.250.51.110:1080
 47.250.51.110:3128
-47.250.51.110:5007
 47.250.51.110:50070
 47.250.51.110:80
 47.250.51.110:8080
@@ -61729,6 +61730,7 @@
 57.129.81.201:8081
 57.129.81.201:999
 57.151.64.172:8888
+58.11.14.126:8080
 58.11.14.135:8080
 58.11.15.149:8080
 58.11.21.232:8080
@@ -63612,6 +63614,7 @@
 67.43.228.250:29163
 67.43.228.250:29189
 67.43.228.250:29267
+67.43.228.250:2931
 67.43.228.250:29333
 67.43.228.250:29343
 67.43.228.250:29391
@@ -63715,7 +63718,6 @@
 67.43.228.250:5113
 67.43.228.250:5177
 67.43.228.250:5197
-67.43.228.250:5229
 67.43.228.250:5291
 67.43.228.250:5295
 67.43.228.250:5451
@@ -63869,7 +63871,6 @@
 67.43.228.251:19715
 67.43.228.251:19787
 67.43.228.251:20081
-67.43.228.251:2009
 67.43.228.251:20283
 67.43.228.251:20401
 67.43.228.251:20483
@@ -63918,7 +63919,6 @@
 67.43.228.251:25269
 67.43.228.251:25329
 67.43.228.251:25365
-67.43.228.251:25799
 67.43.228.251:25901
 67.43.228.251:25941
 67.43.228.251:26125
@@ -64014,8 +64014,10 @@
 67.43.228.251:7467
 67.43.228.251:7469
 67.43.228.251:7637
+67.43.228.251:7951
 67.43.228.251:7993
 67.43.228.251:8197
+67.43.228.251:8313
 67.43.228.251:8341
 67.43.228.251:8375
 67.43.228.251:8477
@@ -64164,7 +64166,6 @@
 67.43.228.252:4381
 67.43.228.252:4403
 67.43.228.252:4411
-67.43.228.252:4521
 67.43.228.252:4601
 67.43.228.252:4635
 67.43.228.252:5173
@@ -64912,6 +64913,7 @@
 67.43.236.18:13357
 67.43.236.18:13361
 67.43.236.18:13369
+67.43.236.18:13377
 67.43.236.18:13499
 67.43.236.18:13523
 67.43.236.18:13537
@@ -65008,7 +65010,6 @@
 67.43.236.18:2021
 67.43.236.18:20227
 67.43.236.18:20231
-67.43.236.18:20239
 67.43.236.18:20345
 67.43.236.18:20367
 67.43.236.18:20465
@@ -65101,6 +65102,7 @@
 67.43.236.18:27307
 67.43.236.18:27319
 67.43.236.18:27327
+67.43.236.18:27375
 67.43.236.18:27395
 67.43.236.18:27529
 67.43.236.18:27553
@@ -66446,7 +66448,6 @@
 67.43.236.22:2227
 67.43.236.22:22365
 67.43.236.22:22707
-67.43.236.22:24033
 67.43.236.22:24059
 67.43.236.22:24325
 67.43.236.22:24503
@@ -67063,6 +67064,7 @@
 72.10.160.170:24767
 72.10.160.170:24887
 72.10.160.170:2491
+72.10.160.170:2493
 72.10.160.170:24933
 72.10.160.170:24973
 72.10.160.170:24997
@@ -67226,7 +67228,6 @@
 72.10.160.170:32777
 72.10.160.170:32811
 72.10.160.170:32839
-72.10.160.170:32853
 72.10.160.170:32883
 72.10.160.170:32893
 72.10.160.170:32951
@@ -67263,7 +67264,6 @@
 72.10.160.170:4593
 72.10.160.170:4595
 72.10.160.170:4701
-72.10.160.170:4753
 72.10.160.170:4827
 72.10.160.170:4891
 72.10.160.170:4907
@@ -67506,6 +67506,7 @@
 72.10.160.171:25823
 72.10.160.171:25919
 72.10.160.171:25983
+72.10.160.171:26267
 72.10.160.171:26293
 72.10.160.171:26319
 72.10.160.171:26437
@@ -67540,6 +67541,7 @@
 72.10.160.171:29417
 72.10.160.171:29571
 72.10.160.171:29575
+72.10.160.171:29687
 72.10.160.171:29703
 72.10.160.171:29765
 72.10.160.171:29791
@@ -67561,7 +67563,6 @@
 72.10.160.171:32065
 72.10.160.171:32109
 72.10.160.171:32263
-72.10.160.171:32309
 72.10.160.171:32439
 72.10.160.171:32471
 72.10.160.171:32697
@@ -67647,6 +67648,7 @@
 72.10.160.172:13419
 72.10.160.172:13637
 72.10.160.172:14125
+72.10.160.172:14157
 72.10.160.172:14523
 72.10.160.172:14537
 72.10.160.172:14621
@@ -67770,7 +67772,6 @@
 72.10.160.172:8013
 72.10.160.172:8235
 72.10.160.172:8523
-72.10.160.172:8795
 72.10.160.172:8883
 72.10.160.172:9091
 72.10.160.172:9153
@@ -68329,6 +68330,7 @@
 72.10.160.90:16075
 72.10.160.90:1613
 72.10.160.90:16139
+72.10.160.90:16147
 72.10.160.90:1617
 72.10.160.90:16173
 72.10.160.90:16179
@@ -68807,7 +68809,6 @@
 72.10.160.90:31223
 72.10.160.90:31295
 72.10.160.90:31349
-72.10.160.90:31359
 72.10.160.90:31399
 72.10.160.90:31431
 72.10.160.90:31433
@@ -69088,6 +69089,7 @@
 72.10.160.91:15687
 72.10.160.91:15887
 72.10.160.91:15951
+72.10.160.91:16073
 72.10.160.91:16599
 72.10.160.91:16609
 72.10.160.91:16977
@@ -69295,6 +69297,7 @@
 72.10.160.92:15107
 72.10.160.92:15297
 72.10.160.92:15551
+72.10.160.92:1563
 72.10.160.92:16183
 72.10.160.92:17143
 72.10.160.92:17699
@@ -70559,7 +70562,6 @@
 72.10.164.178:26751
 72.10.164.178:26767
 72.10.164.178:26789
-72.10.164.178:26805
 72.10.164.178:26815
 72.10.164.178:26825
 72.10.164.178:26827
@@ -71959,11 +71961,9 @@
 8.215.12.103:9050
 8.215.15.163:11
 8.215.15.163:3128
-8.215.15.163:5060
 8.215.15.163:80
 8.215.15.163:8081
 8.215.15.163:8443
-8.215.15.163:9080
 8.215.29.210:3129
 8.215.3.250:104
 8.215.3.250:119
@@ -72076,7 +72076,6 @@
 8.219.229.53:80
 8.219.229.53:8008
 8.219.229.53:8080
-8.219.229.53:8200
 8.219.229.53:8888
 8.219.229.53:9080
 8.219.241.189:80
@@ -72112,8 +72111,10 @@
 8.220.136.174:2000
 8.220.136.174:20000
 8.220.136.174:30001
+8.220.136.174:3120
 8.220.136.174:3128
 8.220.136.174:31281
+8.220.136.174:9002
 8.220.141.8:13
 8.220.141.8:3128
 8.220.141.8:8047
@@ -72140,6 +72141,7 @@
 8.220.204.92:81
 8.220.204.92:9080
 8.220.204.92:9098
+8.220.205.172:1080
 8.220.205.172:11
 8.220.205.172:12000
 8.220.205.172:3128
@@ -72148,6 +72150,7 @@
 8.220.205.172:45
 8.220.205.172:5060
 8.220.205.172:6379
+8.220.205.172:80
 8.220.205.172:9000
 8.220.205.172:9020
 8.220.205.172:9080
@@ -73681,6 +73684,7 @@
 91.204.190.140:81
 91.204.239.189:8080
 91.205.196.215:8080
+91.206.148.3:8080
 91.207.26.142:8080
 91.208.197.44:8080
 91.209.114.179:8080
@@ -74421,17 +74425,17 @@ body{
 <h1>Forbidden</h1>
 <p>You don't have permission to access this resource.</p>
 </body></html>
-188.68.52.244:80
-210.206.242.93:5031
-50.175.123.235:80
-47.92.93.226:8888
-50.171.122.27:80
-94.247.241.70:53640
-123.154.30.68:8085
-210.206.242.124:5031
-114.55.75.169:80
-47.109.31.148:8090
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: '3',cZone: "multiproxy.org",cType: 'non-interactive',cRay: '9463e37ebac3df9a',cH: '5DZMKcSMCNNEhMKaqA8cSBGdk4gbtXgAuhwqg2ppErs-1748331883-1.2.1.1-a4a8pfhBFB77_svzsaqv54766wHTkKOjcoP9RV.4kFblJSXCMsw7KUfFwWaopbcg',cUPMDTk: "\/txt_all\/proxy.txt?__cf_chl_tk=wIid8FXyXz4ocfRQc6G.KJ5SZ7ikCzTrpSTpshvGTV4-1748331883-1.0.1.1-3bLSeYjCRW_3Cx5uYiLRNnu.fCxBJdolSPAdRuPigQU",cFPWv: 'g',cITimeS: '1748331883',cTplC: 0,cTplV: 5,cTplB: 'cf',fa: "\/txt_all\/proxy.txt?__cf_chl_f_tk=wIid8FXyXz4ocfRQc6G.KJ5SZ7ikCzTrpSTpshvGTV4-1748331883-1.0.1.1-3bLSeYjCRW_3Cx5uYiLRNnu.fCxBJdolSPAdRuPigQU",md: "r72zO0mfx8GT.E49gU4dXjQALREnxO_qb9mYAoh3F.w-1748331883-1.2.1.1-cbGsjVkg5JpH16VWz5BfSsGmAS.sCIm6wFB5UEajtDiVJun1cn2dNdv4Tf3xUTymoPzfXj9irmXCqsPURt697bJ_.wyx4cecVrgF_4RZZfIykDflUfCT.cU6R.X4PUWU2yu0SD09E1jxY.MDy4sFRWu0IHbFBCV2j.McUPXf4PoRoeEObrpBgoQhsQcxnpXWwspLbHB30BKKFtdRNt1UNCd6j_dnUsccxwgiwccpWhxnG8sRLA9CW7aGWDseINfY6phenXb3K.8WmybAVvy3aItoRLUBIFjFRyha_esA3NDgdYZ6BXbY7CvLrhJuvp16TUwu.ERVlKHKobssQZVUzwAl4iLJuSNefDRpC6VlOq9mAQ87KZSyaDBTyco3epDKNiQtFhNPpz7rlYORSYaiGozTK76pfcRrW9o0PA4uQ23NGnSx7vlPJyAEHKU12wzPskVqQPrxReo69iUkuZTZ3HvMx_oLxWo9lZUeKFds8nqeKwlbMHQkgXZ93SXdLWUkKAQ41LqwVL82ARerNL_Qp6GSiG6PK0bSs39ucxcJXaC4osE2WkqW7OHPSeXMLlc3BJsOnjJPOgQANzaTlm3wMnYbw693FKJzlduv4_gAJ.LG813mbWeWAj9BJE8qPG2_iB1osDHvB6uXwFZ9LeKnWO0_9p_1TJt2cDlGAe71PrXZ612snqk3q0CTiTDtoHmv9jr3Lw3sbhSmLdbGbKXYS9pf59PfmIegdBRpIMPeZx9oaTRD9_eQkOkqyT3p5t0haX0pgPxjzNcaQJSbpzzW6ava2CXTXiqChiEOIErxle8pqNwt5OprCHrPgaT0b70XHWBf6FoO8W97Xyc1s3qiZmE8jf.bNQtmY1CVaNQEY8GsGe6PIRhGfRLBL712qAwkzy.NWjB7o81gnC8YCWvFwReVcKmywu2Wx0DFwE9NkBU",mdrd: "4ltEd_gwoodS2AkQP599zuPF0ksPic9C1ZNIG8G0hUc-1748331883-1.2.1.1-sZm4zOoYkJD9glo9aM13PYfLcBQEONfYrrvOk6CO649Q1218d_stHweK5kXSJtcEb5Wjcg71fSiY0kJ9padMzPv08j3r1EX3FYHETTasp.4Yp0CknPhlx_qSNETn0wL1RXU6vWJxd496XKz4kU2wwn6W3gkGSThehub_ZhGzjMBuQd1X_qkz3mZ.pfNl9QV4vqkS6ditch.FF2ogLLEouX1vQidXaOe.rRvHV8RNrsH0vCiA4kQBUdMWfoYNbznI3B9S68uoYibOpoP.haaKXqSUTUg.uK8RFFR6fWkuXAA7jaJ7Erj1kFd7.j4z8Usld4drYioxHGcS8yKfTGrsoRnouCkx97.VA_EBjo2lOHgNTIpFLJTWOuSuiDeIohEjgkXLkGx.HZwDsRcGQHl5OS.y3k2jZDcaeSaya4ueQIyRrEb4kMO0x12RIqLKs9qQYgP7IXCVN3j8DZWzahuIHNOF5xJCMOFaxUqt6Mozw2gmAxYOqkwLhsl5WWgECk7vWHPHkZYJ0nxg.2wQ04S1FGHPOXaH6q7Yz2MwNRjjAncCeRUu5BQ1V_cKpXa3IQ1p5_9k6C5x3u6EucNv5gvo8M_ZJ.Je5Duhphra1LnKbqdaEXVH9EBpA8fVToipvEvSy.Bb7FwY1FEbzlOhq1d32AgDqnjUMl7gn_5olB0pbFlX09UXkto4A1T3yy4u20NIIYidFmupJ98Y3YXZZbPdW7wp7LVDOt0.gsxFgz5ID1cW1L_xW0AO8E6EZiEzTHv3XY9bDHSLxE7ChG5QVbI4YSiMfNF3uEPfVhCv_sDWEIEQ0FMjkrffD0etcQJmqOzCiwMTawLk3NalQs4he4lIUHEPQ66tTmvGvKz9ZCCMogxNGSMwywdXktZ1xJAyGUENdyP8iiX.4_UDIn_Qo.qs8iOS5eMb_n4OC88sv57i17E06u2ayupxFqXc.MT9u9w6HpWCLz9gIB9GptspIC1frzcMAd.SxPQCLmMstxEDJlbd_.a86PfKVqSTDrXK4r8DqhDYKOxwmNYIehbhldMKC0QhrDqAoip3902cnY4IdfiHBcC3pNtN0sBj1S7qFV1Z2z593M6uT0FCgwNW8Qdu_i3pNuDzkoJOoMfdJi4_2oP1FeHc27Z8yxEjocHpIHE1f_mWppt0rIe7OpfBkRlGL6hnPeDyKlPHeKRBZ.8V_BIIpo90J6RHF4JyiXbIfbyQPmizShX4pYSD9NPaeLT_H1SgCzpmnn0SAAqrzpsMZC_PJxOiUucdUWSehi3ySKRXX0_qJdw1cxl9bwYM7tBKLnwJ4ZIHZhU17Jz_P.V2.u0Z892BPajyDNtroPQ9dyJFUbbWTCX85nQfJVo_WfxsrwIAh._zsMx5Qbfan4Hd2omp6Q.1wa9lvv8LJ87oXbpsnNeXIHgdC_sG5smeaURPljkP2pG_XlLbc4VxpZpjVrA5JOwnXise_PalqzzTH0Od07exApDJ79oJT5jw_CE9_bAkKIbIMSwvfsXa5EayCKh7xPMRKJTIvKlKPE3yCIukPWiNxbEOjnTdJ8YI8C.LF1jTcpZ1YpVeBWDOpPqjiT8.XV6McVeU5iNWBkl6vvUZ0nq4xaIwI6vXG6BHUOKK5CbCw.FmUzYJm0bgN96mfuufZVcJ6Sk2q6JjrU.4dwfy0U2kViTyiVPgR09VTBH8tWhL_LdbEauZo.Pc67mHusc3xsDpM5kZyT39wKa7L4wKYtOx0TY7WjlswvL5PYWuhqWQ.pnao6sjlOjmRsiGzGmIP93J5bDhh12LZVlxAs4C7wudkfUmHQe52PGNf8c6JZPrZS0d9yhl7LrSBpP4qPqq4ixXiV5.5rVd.nYRMGd_LK_LL1eRpJtT92vBjuayHgkYmjZ2ITni6BlhwHBJf5g1uA9c3cI9ZO4Qd5xEYnyKh2CdBgRi6Ra.geTnZ7I3vImBS.drVUxlXDfZ86_liDddy9XP70XSqthObPRBzzGkAvMO6eBg_elt4bYAb7hkAyzbwqrYY6lACsvcANNpng88Rg41FFM7FJS1RFDW1JHN1YhlxaKQUFVnPlaLERIWS03AXc.6GMeq1natTISnvTYqWrroUWfJAE8BxWRvF6HXVIJZ2NFhG2bhR.VLMJZBrX5QTw1RdQctLxB2Qzp_AWaYptGawSGtrXf1QME5t8B1QSm7ex0MmfLqsQdfJ61cDs8qt0Wjb994Pals.2kMymkvgrM4oEytsoa0rkCVCcP2Df2hKwGnHlTfxClwdnF5XQ"};var cpo = document.createElement('script');cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9463e37ebac3df9a';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\/txt_all\/proxy.txt?__cf_chl_rt_tk=wIid8FXyXz4ocfRQc6G.KJ5SZ7ikCzTrpSTpshvGTV4-1748331883-1.0.1.1-3bLSeYjCRW_3Cx5uYiLRNnu.fCxBJdolSPAdRuPigQU" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(cpo);}());</script></body></html>
+188.191.165.159:8080
+199.168.175.179:80
+95.143.191.163:40329
+188.191.165.159:8080
+123.141.185.38:5031
+47.97.121.189:1000
+47.236.224.32:8080
+101.66.198.187:8085
+168.138.50.91:80
+101.66.199.91:8085
+<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: '3',cZone: "multiproxy.org",cType: 'non-interactive',cRay: '9463ec938fd00814',cH: '_eHuqYpikYtc0cW0lxhU8Af6wZqeuFu3ni0ElIrdpI0-1748332255-1.2.1.1-ZgSxc8609voy3DhEPikNj9B8jPk9J9bqEH8vUhWN5psMolJ_hfRSYJaoOBRoESeO',cUPMDTk: "\/txt_all\/proxy.txt?__cf_chl_tk=pckZQ454hY5AhwGbpOlWHs3LBNlrkWbBxgAZgMpzrsk-1748332255-1.0.1.1-0VdBT5EtSir..EW7VmnkkBE2ZY2OiCSsR5aIexwd9Mk",cFPWv: 'g',cITimeS: '1748332255',cTplC: 0,cTplV: 5,cTplB: 'cf',fa: "\/txt_all\/proxy.txt?__cf_chl_f_tk=pckZQ454hY5AhwGbpOlWHs3LBNlrkWbBxgAZgMpzrsk-1748332255-1.0.1.1-0VdBT5EtSir..EW7VmnkkBE2ZY2OiCSsR5aIexwd9Mk",md: "xwsOcJdUVpdSf6Qemar4SoSYCbHxy7EBGw0g5eIbS80-1748332255-1.2.1.1-AVoxQQwFXwQ4PBaz.LW2KhhVMg4QONT8A3JjY0j1COjXDA6HvuwQ1017brsWYQc8geShMiBn.R2uawz4AvhkH_PEB8mw9284G36IN7R3Hf8xApqDPcuau0RN6jlmCGCxW1cSR9GCYH5ScVJgBGlx62_hZ0RrvEt3Nn3yn.dufVC19SnpHM242gdk2mCGWBDSIDVcskhamIISAuqxtn.VuDerf5wEAWMLyyIovllRlDggo8YB9Cqh.h7O3R_ZzJas7Rk_GyJx3ApPWAkro.J7.__0unNMMztIkRAMTK2bL.cfQfC61ooFPFGyqQOAwYdg7Gtj3nyuvQ5zwoQB9PiPaIiluY6OuH0UgRE33vwHCve86oQAhKhfdl7uOekRxVrYDl6YAVicq4cQ3hKZySxeMm7Wzlz5vu0rXBS02MvA0SzL_rUb4amhXez0HT3cSQKkJMHsP4c3wlIvdOBMVA6QXLBwccV9zSSvRPUO0J6H_tP6dUr37REP9Bun7I8PS.yP.IVUdEWqslBuwYnEF3uIHOdDeqr4W.SD.oor2D4kyErePhBcNWYXRWo0RKQwAMujDpt6fLMKvj1Re3gzo6RN0_BBwNhAhI53hM6CPbyEUK85nF9LeGxulHu4ReBQVRenD1BzqXEoe.V5FbTetXFpM3Sl9yvWUs5ysO02YS.3kS_VLMN0p7R7NLxQBmzdXi_BHK2v.I8kE.UnKlHZP3P.Nh5q1yXDSPfVJI2mM1W4HwObnBUzeaaxMGTBSGRxrtnNAXqUMXjUK8JmMqxTadH.jBVdKL5yws6spemWKj8uLextJ9Kk4h3U4trvi_upMmnBXJYir5x3iX2Ws32Cm5oPWoV.WvJ_O6kyN4AogHGwpQ0_9r03Lj4naDWvAM0RC7KgNxjt9aqh7BKRSRdhhE0.mXM_p84wP39A66wqryiI9w8",mdrd: "EQqtRY5mmb5B9q1DoyciYODT.SL2R_IdIxmW3jNXtbw-1748332255-1.2.1.1-N8b9hM.cA2_I3XAPQ1FIG0FFLNduKPjR7QhpHmRb9CP9PSMMi5Q8oYQHzpoPbeW4gqm_XcQU4aXlLsMiNYTEbcqLKAQmXQ0sovTNYW9bwug4jpgMfpXyFW_ZYQCi0nYsbbVz5aZZRGthAf31dRbcGJlY.y1Jo7luhj066KVq1HUJpe5Y8AxTzIh5Hdo60rCoBjPAhB1Atex06MlhrxGySaUpb5Ua0R43x_B2vPGvwZpuOrBfYOCkFhaPklwtbofXu9SdKvUFMh9b6cmWSzjeSO34e761owuJlF2A2uHEH3aS2RIjLFaAhlFCfwYqnqr3m_Ez51PwPs7maN9WrWzTGjwb4JPQqRLhgtSo1wTQEcMPlncQh3jUxFRX7vizMWoUGG0HYLb6GTjSE.jDB_W.gRetniECENFg.ppBa39lkw7g_qGkGMcTsa5frSGmTZRTy4J_3nLByhftZ5Sls3KY4f_i.R70JxIXr94ZgSUk7iI8U.vS2cUzgsRZST47hpvkTKTg101EY3yBEXeHFeIElTvJhjH8LiVNqpZdSKdNDKnFT9nAtUJYtjVoBxhfajKm6v38ht1gdextB1RlPKc0TVfM0HM_PytG2p9odLZ6xI4UYhgFb_DeRcuItkrIaD2cdbllNyrS161ny6FVbnrrJtiWqJOyqAzYAY6itr3D2v.70UQthzM2IyydIMXSPsu1cHT5C3w80EyG92833BpmJIRhwr1KXScFiKx8m7bN870tK3cu4FVAts71TuKUy5xDxWUyWwoHNom4FOAmxENXe9Yr5No.kqk5cnMb1HFZKEbeHcIP8imVfnLK04ffQ3pzCGy6CPkkWPei9WLo.LAufzMpwMnPhYKI31qY_PIbl5MdJe6FQcd2B8YsBMOLG_5pHD5fy7AGfLkSGz1rcLQwNM_BLw4GtHNcLVxTb4yOnY4ReTX5_jGU5jhaWW2ilBKSEoK0LDaXQVwiN4klArHp6xbzLUqd9gu0cRrJuEsHhcwLkjJ8x5dSJDeaYX0z_vje357O.h4ESzQpOLl.Aq9EjjxHlcNBcmDxKkC.CH54GbNDyoc9x5cjF6431WQkHWFIMRv9dpneXsCssnPk.YFt_bcmKoED5LsNuSDKFkWnjt3ii1iGACNtlYGODeKn56lfJpi5ghuQjzVQfdE5k4_Jrv.cr4U5e9vQaIwTMSicHUWz3DogqdZ4nXsdChbQNe7WvtFD7eCllZxVwyzTwObhDAqkXVZ8DxSBso7VuMkCMqDPXq.a9HuOHmqVg1lOOjzGEOCe_YE1tiy6Co4EYSpmoZkGwb99EUF1tcjHfTZka9Pym9M0LDQLt_KkU87X5f3Mb5odVxJhcHqWu6hqXo_npIrTAPSt3fk690_XJ_FQIQCiyZKFnnADfVXsXUjRWD479IB_Uj0BZO2B8RhbNJsy0iTtEAWhZJBDHTolZ6B4vcFuULnX3k3SMlaz0ty_Gfj.bGvyUC8S9G35BpNkmxiaoJvwuXHunxsUIsU3ZupAbUJWTatQNv9nNumviTw1wQzE7Yy6Si.F_3MjYqbufMvz0FjLj32UCWV6DFT1ZYR00O0NcrDPNrVyFqhTOim2SBultJZZP1mEqfTz4UYGqWbpugSF4jDD7dZLHKWXLcGY8L9iJHV4laKjyejD8VG98VzhyO2WJkLkLcnecqrk7gAMQgxyiG7A3FjMUBVP_9nRsQyRFBu0AGZSAOYC0lp441q57ltI3Tw.aqeTV62RbIQ4c0SJEXAaLaerglIeq7kw8H0wZofjU.ceFA_JPtpFQXCtuZ11ax5TUF51Nw_YjafB1HL8OSy6Kmwjvc1A.i4ro0TT1xnwWzdcenqWUXKxuA1EbwGbjPsK2tMz_0odomSyZRhVTkyz4Uzy1XoH3k1oXvz2y9SDYLgmu_jyq3xyDOHEWKFE0BVEWH8mEZjDRy1UmiSaefP8mIpiwkt..8tSrXJDyWAyyVuz3RtaAXggp_pqux_9d5hfzqb950rwVs2j23yBu4oPQbpFdWaIbCesKTlFrfbG84RlQIBVzEw6n6Yk2t3.oL7fiEPbKUfapdPi4NySUfQb1K_xHTiE5b6wVo2H7dEHjho6pRIbrdcsPEwYjCB7RGEiFp_JtkzjBYmUVFpSv1FQGDERkvJQDPKAALHlKBpY8GPtB5fLrRJB32Z.bnMrHEq_SKJ43uGt0.X63fH2_oo4uiKA4pze2l3UHVJUDzFTe6mb5ny8l1SmTCLcrQHxE1zjYJ2qI.WRRBa0zA"};var cpo = document.createElement('script');cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9463ec938fd00814';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\/txt_all\/proxy.txt?__cf_chl_rt_tk=pckZQ454hY5AhwGbpOlWHs3LBNlrkWbBxgAZgMpzrsk-1748332255-1.0.1.1-0VdBT5EtSir..EW7VmnkkBE2ZY2OiCSsR5aIexwd9Mk" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(cpo);}());</script></body></html>
 0.0.0.0:80
 0.101.131.54:8888
 1.0.170.50:80
